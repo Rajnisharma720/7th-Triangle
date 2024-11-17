@@ -1,0 +1,29 @@
+h1{
+    font-family: "Roboto", sans-serif;
+}
+#loadProducts{
+    margin-top: 8rem; background: linear-gradient(45deg, #007bff, #00d4ff); transition: box-shadow 0.3s ease; border: none; font-weight: 500; 
+}
+#btn-load:hover{
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.card{
+    height: 300px;
+}
+i{
+    margin-right: 8px; font-size: 20px;
+}
+.btn{
+    font-weight: 500; font-family: "Roboto", sans-serif;
+}
+.card-title{
+    color: rgb(39, 39, 39); font-family: "Roboto", sans-serif; aspect-ratio: 1/1; height: 60px;
+    width: 100%;
+}
+.card-price{
+    font-family: "Roboto", sans-serif; font-weight: 500;
+}
+.card-img img{
+    height: 220px;
+}
+ 
